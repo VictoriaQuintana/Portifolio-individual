@@ -1,2 +1,2 @@
 # Portifolio-individual
-Esse projeto é sobre mim.,minhas hablidades, hobbies, contato.
+Esse projeto é sobre mim, minhas habilidades,hobbies e contato.
